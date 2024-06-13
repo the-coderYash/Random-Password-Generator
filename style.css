@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #3b3b98;
+  background-color: #2c2226;
   color: #fff;
   font-family: 'Monospace', monospace;
   display: flex;
@@ -24,11 +24,12 @@ h2 {
 }
 
 .container {
-  background-color: #23235b;
+  background-color: #242433;
   box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
   padding: 20px;
   width: 350px;
   max-width: 100%;
+  border-radius: 15px;
 }
 
 .result-container {
